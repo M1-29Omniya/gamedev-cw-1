@@ -10,3 +10,4 @@ C:\Users\CocoE\OneDrive\Documents\Game Dev\gamedev-cw-1\First_project\First_proj
 C:\Users\CocoE\OneDrive\Documents\Game Dev\gamedev-cw-1\First_project\First_project\obj\Debug\netcoreapp3.1\First_project.dll
 C:\Users\CocoE\OneDrive\Documents\Game Dev\gamedev-cw-1\First_project\First_project\obj\Debug\netcoreapp3.1\First_project.pdb
 C:\Users\CocoE\OneDrive\Documents\Game Dev\gamedev-cw-1\First_project\First_project\obj\Debug\netcoreapp3.1\First_project.genruntimeconfig.cache
+C:\Users\CocoE\OneDrive\Documents\Game Dev\gamedev-cw-1\First_project\First_project\obj\Debug\netcoreapp3.1\First_project.csprojAssemblyReference.cache

@@ -9,7 +9,10 @@ namespace First_project
             int age = 15;
             double speed = 1.65;
             String characterName = "Ahmed", superPower1 = "Strong Aromer", superPower2 = "Night Vision";
-            Console.WriteLine("\nMy name is " + characterName + ".\nMy Super powers are " + superPower1 + " and " + superPower2 + ". \nMy age is " + age + ".\nMy speed is "+speed+".");
+            Console.WriteLine("\nMy name is " + characterName + 
+                              ".\nMy Super powers are " + superPower1 + " and " + superPower2 + 
+                              ". \nMy age is " + age + ".\nMy speed is "+speed+".");
+
         }
     }
 }
