@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\CocoE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\CocoE\\.nuget\\packages"
+    ]
+  }
+}
